@@ -22,7 +22,7 @@ void suggestWithBFS() {
         {4},    // Sleep → Relax
         {3},    // Social → Exercise
         {4},    // Exercise → Relax
-        {}      // Relax
+        {}      
     };
 
     vector<string> names = {
